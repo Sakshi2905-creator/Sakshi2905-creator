@@ -26,14 +26,12 @@
  ---
  ### 📫 How to reach me:
 
-* **Email:** your-email@example.com
+* **Email:** 29sakshi05@gmail.com
 * **LinkedIn:** www.linkedin.com/in/sakshi-singh-b5b89b31a
 
  ---
 
-### 📄 Resume
 
-You can view my detailed resume [here]().
 
   
 

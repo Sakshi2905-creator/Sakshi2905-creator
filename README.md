@@ -1,6 +1,6 @@
 # Hi, I am Sakshi Singh 👋
 <div align="center">
-<h3>Building Web Experiences with the MERN Stack 🚀</h3>
+Building Web Experiences with the MERN Stack 🚀
  </div>
  - 🌱 I’m currently learning Full Stack Web Development (MERN Stack).
  - 💪 I'm confident with HTML, CSS, JavaScript, C++.

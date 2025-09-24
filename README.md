@@ -27,7 +27,7 @@
  ### 📫 How to reach me:
 
 * **Email:** 29sakshi05@gmail.com
-* **LinkedIn:** www.linkedin.com/in/sakshi-singh-b5b89b31a
+* **LinkedIn:** [Linked in Profile](www.linkedin.com/in/sakshi-singh-b5b89b31a)
 
  ---
 

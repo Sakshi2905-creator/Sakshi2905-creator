@@ -27,7 +27,7 @@
  ### 📫 How to reach me:
 
 * **Email:** your-email@example.com
-* **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/sakshi-singh-b5b89b31a)
+* **LinkedIn:** www.linkedin.com/in/sakshi-singh-b5b89b31a
 
  ---
 

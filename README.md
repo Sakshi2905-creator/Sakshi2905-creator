@@ -9,7 +9,7 @@
  - ⚛️ Exploring React.js, and trying to build frontend projects.
  - 😄 Fun fact: I'm not a chef, but I'm learning to master the kitchen with the MERN stack. I'm constantly cooking up new ideas...
 
-   ---
+ ---
 
 ### 💻 Languages & Tools
 
@@ -23,7 +23,17 @@
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
 </p>
 
----
+ ---
+ ### 📫 How to reach me:
+
+* **Email:** your-email@example.com
+* **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/sakshi-singh-b5b89b31a)
+
+ ---
+
+### 📄 Resume
+
+You can view my detailed resume [here]().
 
   
 
